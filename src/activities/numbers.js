@@ -16,3 +16,10 @@ function isPrime(number) {
     }
     return true;
 }
+
+// function test_isPrime() {
+//     console.log(isPrime(7));
+//     console.log(isPrime(8));
+// }
+
+// test_isPrime();
